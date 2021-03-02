@@ -1,3 +1,6 @@
+## Deployed Application : 
+https://my-deep-thoughts.herokuapp.com/
+
 # deep-thoughts
 
 This project was bootstrapped with Create React App.
